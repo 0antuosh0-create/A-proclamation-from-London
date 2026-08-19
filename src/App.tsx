@@ -264,7 +264,7 @@ export default function App() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.2, duration: 0.7 }}
               >
-                A little note from London
+                A proclamation from London
               </motion.p>
 
               <h1 id="congratulations-title" className="hero-title">
@@ -274,7 +274,7 @@ export default function App() {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ delay: 0.38, duration: 0.8, ease: "easeOut" }}
                 >
-                  Well Done
+                You're the main character!
                 </motion.span>
                 <motion.span
                   className="bahar"
@@ -292,9 +292,9 @@ export default function App() {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 0.9, duration: 0.8 }}
               >
-                Seeing all your effort pay off and watching you reach this moment
-                <br className="desktop-break" /> brings me pure joy. I’m so happy for your achievement
-                <br className="desktop-break" /> and so proud of you!
+                It has been formally decreed across all high circles that the spotlight belongs solely to your grace, for you possess a presence that outshines the entire realm.
+                <br className="desktop-break" /> No one is better suited to command the grand story than you. 
+                <br className="desktop-break" /> You already are the true main character.
               </motion.p>
 
               <motion.button
